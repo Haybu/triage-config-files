@@ -1,0 +1,7 @@
+foo: mayappbar
+
+---
+spring:
+  profiles: dev
+
+foo: baz

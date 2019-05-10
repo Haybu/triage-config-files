@@ -1,0 +1,7 @@
+status: ok
+
+---
+spring:
+  profiles: dev
+
+status: failure
